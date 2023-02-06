@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PitjarusApp</string>
+    <string name="title_activity_list_store">ListStore</string>
+</resources>
